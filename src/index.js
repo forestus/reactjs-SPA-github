@@ -6,5 +6,5 @@ ReactDOM.render(
     <React.StrictMode>
         <App />
     </React.StrictMode>,
-    document.getElementsByClassName('app')[0]
+    document.getElementById('app')
 );
