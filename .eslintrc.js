@@ -34,5 +34,7 @@ module.exports = {
         'react-hooks/rules-of-hooks': 'error',
         'react-hooks/exhaustive-deps': 'warn',
         'jsx-a11y/anchor-is-valid': 'off',
+        'react/prop-types': 'off',
+        'react/static-property-placement': 'off',
     },
 };
